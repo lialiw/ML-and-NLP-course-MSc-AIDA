@@ -7,7 +7,7 @@
 
 2nd week: Dimensionality Reduction and Predictive Modeling for Breast Cancer Diagnosis Using PCA and Logistic Regression
 
-3rd week:
+3rd week: Analyzing Titanic Survival Data Using Decision Tree Models
 
 4th week:
 
