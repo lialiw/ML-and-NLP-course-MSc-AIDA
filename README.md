@@ -5,7 +5,7 @@
 
 1st week: Analysis and Prediction of Breast Cancer Diagnostic Data Using Machine Learning Techniques
 
-2nd week:
+2nd week: Dimensionality Reduction and Predictive Modeling for Breast Cancer Diagnosis Using PCA and Logistic Regression
 
 3rd week:
 
