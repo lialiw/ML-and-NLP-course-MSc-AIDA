@@ -13,7 +13,7 @@
 
 5th week: Exploring Network Architectures and Optimization Techniques for Image Classification on MNIST and Fashion-MNIST Datasets
 
-6th week:
+6th week: Refining Fashion-MNIST Neural Networks with Progressive Regularization and Data Augmentation Techniques
 
 7th week:
 
