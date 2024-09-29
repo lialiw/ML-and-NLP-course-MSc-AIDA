@@ -15,7 +15,7 @@
 
 6th week: Refining Fashion-MNIST Neural Networks with Progressive Regularization and Data Augmentation Techniques
 
-7th week:
+7th week: Implementing Convolutional Network Techniques on CIFAR-10 for Enhanced Model Performance
 
 8th week:
 
