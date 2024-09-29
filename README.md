@@ -9,7 +9,7 @@
 
 3rd week: Predictive Modeling with Decision Trees: Analyzing Titanic Survival and Cardiology Data
 
-4th week:
+4th week: Diabetes Prediction Using K-Nearest Neighbors
 
 5th week:
 
