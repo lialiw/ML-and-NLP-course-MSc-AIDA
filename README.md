@@ -11,7 +11,7 @@
 
 4th week: Diabetes Prediction Using K-Nearest Neighbors
 
-5th week:
+5th week: Exploring Network Architectures and Optimization Techniques for Image Classification on MNIST and Fashion-MNIST Datasets
 
 6th week:
 
