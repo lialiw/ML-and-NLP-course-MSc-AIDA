@@ -17,6 +17,4 @@
 
 7th week: Implementing Convolutional Network Techniques on CIFAR-10 for Enhanced Model Performance
 
-10th week:
-
-11th week:
+10th week: Text Analysis and Sentiment Classification with NLTK
