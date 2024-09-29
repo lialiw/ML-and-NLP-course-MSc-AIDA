@@ -17,12 +17,6 @@
 
 7th week: Implementing Convolutional Network Techniques on CIFAR-10 for Enhanced Model Performance
 
-8th week:
-
-9th week:
-
 10th week:
 
 11th week:
-
-12th week:
